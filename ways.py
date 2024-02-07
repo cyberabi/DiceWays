@@ -1,7 +1,7 @@
 """
   Figure out the number of ways each sum of some number of dice can be rolled.
   Optimized but suboptimal - do your own homework :-)
-  Christopher Burke, 1/4/23
+  Christopher Burke, 1/4/24
 """
 
 import random
